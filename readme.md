@@ -43,3 +43,4 @@ python Excel_image_compresser.py
 
 - 请确保 Excel 文件中包含图片。
 - 该工具在 Windows 环境下运行良好。
+
